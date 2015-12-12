@@ -1,1 +1,1 @@
-"Sample git repo"
+"Sample git repo created by Anirudh"
